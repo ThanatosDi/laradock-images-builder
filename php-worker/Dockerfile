@@ -38,7 +38,9 @@ RUN install-php-extensions \
         xmlrpc \
         xml \
         zip \
-        opentelemetry
+        opentelemetry \
+        rdkafka
+        
 
 ###########################################################################
 # ext-mongodb
