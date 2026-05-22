@@ -26,7 +26,8 @@ RUN install-php-extensions \
         xml \
         zip \
         opentelemetry \
-        rdkafka
+        rdkafka \
+        pcntl
 
 
 ###########################################################################
